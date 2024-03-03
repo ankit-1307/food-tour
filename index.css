@@ -77,8 +77,6 @@ html::-webkit-scrollbar {
 }
 li > a {
     color: var(--nav-primary-text-1);
-    color: red;
-    /* color: white; */
     text-decoration: none;
 }
 li > a:hover {
