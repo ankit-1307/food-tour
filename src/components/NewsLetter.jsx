@@ -12,7 +12,7 @@ const NewsLetter = () => {
                     <input type="text" id="fName"></input>
                 </div>
                 <div>
-                    <label htmlFor="lName">Last Name</label>
+                    <label htmlFor="lName">Last Names</label>
                     <input type="text" id="lName"></input>
                 </div>
                 <div className="newsletter-date">
